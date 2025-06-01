@@ -1,5 +1,6 @@
 # CommandHider
 [CommandHider]() 是一个 Minecraft 服务器(Spigot)的隐藏命令TAB补全插件。它工作在白名单模式下。
+* 由于一些原因 CommandHider 仅支持 Minecraft 1.8.x - 1.12.x 版本。
 * 推荐和[CommandBlocker]()搭配使用。
 
 ## 特性
